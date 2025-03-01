@@ -21,7 +21,7 @@ The psychology department at Smith College maintains a list of post-bacc researc
 
 # Additional guides
 ## How to: Write a CV
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vTuGRp5bG1Ay3uOAgvgPnbK-TqAyfGBUHBdJXNO6eQpE7XjusM7EPlGiYty4pcEm1kI52hdU81dR5P3/pub?embedded=true" frameborder="0" width="104%%" height="650" scrolling="yes"></iframe>
+<iframe src="https://docs.google.com/document/d/1QOwvf5GVvmJmwdPpMHz4DNR53IhmBWZ_SPJiE2S6Le0/edit?tab=t.0#heading=h.r9jl4n7w57t" frameborder="0" width="104%%" height="650" scrolling="yes"></iframe>
 
 Here is a link to a [sample CV template](https://docs.google.com/document/d/1Zja9VORfgEzS9WiPOrI6d3Va8Y0wxac3yIxjZIgId1w/edit?usp=sharing)
 
@@ -29,7 +29,8 @@ Here is a link to a [sample CV template](https://docs.google.com/document/d/1Zja
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vRzUpjjMG2m1zjtRQywwECk-HTTQDx2a9YphuLxRWTVg-rrkSgkVvHypqQJ8w7lBkXB7wJirmHlHsVt/pub?embedded=true" frameborder="0" width="104%%" height="650" scrolling="yes"></iframe>
 
 ## Funding for Psychology Students
-<div><iframe src="https://docs.google.com/document/d/1-6nwc5ApUUWtINZQFVwwPG2S4UPFxM-afTK9bv9qr3g/edit?tab=t.0#heading=h.r9jl4n7w57t" frameborder="0" width="104%%" height="650" scrolling="yes"></iframe><div>
+<iframe src="https://docs.google.com/document/d/1-6nwc5ApUUWtINZQFVwwPG2S4UPFxM-afTK9bv9qr3g/edit?tab=t.0#heading=h.r9jl4n7w57t" frameborder="0" width="104%%" height="650" scrolling="yes"></iframe>
+
 
 ## How to: Write a cover letter
 *coming soon...*
