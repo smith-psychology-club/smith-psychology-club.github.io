@@ -1,0 +1,10 @@
+main:
+  - title: "Academics"
+    url: /academic/
+  - title: "Professional Development"
+    url: /profdevelopment/
+  - title: "Graduate School"
+    url: /gradschool/
+  - title: "Website Feedback"
+    url: /feedback/
+    

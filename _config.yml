@@ -1,0 +1,122 @@
+# Welcome to the smith psychology resources page. 
+#
+# This config file is meant for settings that affect our entire site which you are expected to set up once and rarely need to edit after that.
+
+# Any changes to core features of the website can be made here 
+# - C. LINKER 1.7.2025
+
+# Theme Settings
+
+title: Psychology Student Resources
+
+logo:  /assets/images/smith.jpg
+description: >- # this means to ignore newlines until "baseurl:"
+  Written and compiled by the Psychology Club at Smith College, this student resource website serves as a tool to 
+  undergraduates pursuing degrees in psychology.
+
+minimal_mistakes_skin: default
+search: true
+
+# Build settings
+markdown: kramdown
+remote_theme: mmistakes/minimal-mistakes
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+include:
+  - _pages
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+author:
+  name   : "Smith Psychology Club"
+  avatar : "/assets/images/psych-club.jpg"
+  description : " "
+  email  : psychologyclub@smith.edu
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/smith-psychology-club"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/smithpsychologyclub"
+    - label: "Official Smith Psychology Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.smith.edu/academics/psychology"
+    - label: "Join the Psychology Club"
+      icon : "fas fa-fw fa-link"
+      url: "https://socialnetwork.smith.edu/organization/psychologyclub"
+
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/smithpsychologyclub"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/smith-psychology-club"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/smithpsychologyclub"
+    - label: "Site by: Campbell Linker"
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      toc: true
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
