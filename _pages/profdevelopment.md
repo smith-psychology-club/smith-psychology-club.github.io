@@ -27,7 +27,7 @@ The psychology department at Smith College maintains a list of post-bacc researc
 <div style="text-align: center"><iframe src="https://docs.google.com/document/d/1Dwx2lKRtH23GHmAd9RiItJrHTYpJ0_GiQzwp1RGp5LQ/edit?usp=sharing" frameborder="0" width="104%%" height="650" scrolling="yes"></iframe></div>
 
 ## How to: Find funding
-<div style="text-align: center"><iframe src="https://docs.google.com/document/d/1-6nwc5ApUUWtINZQFVwwPG2S4UPFxM-afTK9bv9qr3g/edit?tab=t.0#heading=h.r9jl4n7w57t" frameborder="0" width="104%%" height="650" scrolling="yes"></iframe></div>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vQql-qXOISQBOKQaH7ZY2iCmm5KHOB7tQ8n2wOEBD0-aw50cHkMK4unNCeMuFXFOw9ouxll9N7OUOuU/pub?embedded=true"></iframe>
 
 ## How to: Write a cover letter
 *coming soon...*
@@ -42,5 +42,6 @@ The psychology department at Smith College maintains a list of post-bacc researc
 ## Tips for interviews
 *coming soon...*
 
+# Student Internship Panel - Spring 2025
 <iframe src="https://drive.google.com/file/d/1bsa0Q14jCYmItPZNHodxijBnZLrILRmi/preview" width="640" height="480" allow="autoplay"></iframe>
 
