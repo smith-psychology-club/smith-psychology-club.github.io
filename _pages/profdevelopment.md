@@ -42,4 +42,5 @@ The psychology department at Smith College maintains a list of post-bacc researc
 ## Tips for interviews
 *coming soon...*
 
+<iframe src="https://drive.google.com/file/d/1bsa0Q14jCYmItPZNHodxijBnZLrILRmi/preview" width="640" height="480" allow="autoplay"></iframe>
 
