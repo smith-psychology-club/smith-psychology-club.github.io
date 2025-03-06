@@ -26,7 +26,7 @@ The psychology department at Smith College maintains a list of post-bacc researc
 Here is a link to a [sample CV template](https://docs.google.com/document/d/1Zja9VORfgEzS9WiPOrI6d3Va8Y0wxac3yIxjZIgId1w/edit?usp=sharing)
 
 ## How to: Send cold emails
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vRzUpjjMG2m1zjtRQywwECk-HTTQDx2a9YphuLxRWTVg-rrkSgkVvHypqQJ8w7lBkXB7wJirmHlHsVt/pub?embedded=true" frameborder="0" width="104%%" height="650" scrolling="yes"></iframe>
+<object data="../assets/How to _cold email_.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 ## Funding for Psychology Students
 <iframe src="https://docs.google.com/document/d/1-6nwc5ApUUWtINZQFVwwPG2S4UPFxM-afTK9bv9qr3g/edit?tab=t.0#heading=h.r9jl4n7w57t" frameborder="0" width="104%%" height="650" scrolling="yes"></iframe>
