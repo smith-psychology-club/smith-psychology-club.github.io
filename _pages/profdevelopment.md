@@ -48,4 +48,7 @@ Here is a link to a [sample CV template](https://docs.google.com/document/d/1Zja
 <iframe src="https://drive.google.com/file/d/1bsa0Q14jCYmItPZNHodxijBnZLrILRmi/preview" width="640" height="480" allow="autoplay"></iframe>
 
 # Careers in Clinical Psychology - Spring 2025
+The slides below give a brief introduction to clinical psychology career paths, spanning information from your time at Smith, to graduate school, to later career:
+<object data="../assets/Clinical psych INFO.pdf" width="1000" height="1000" type='application/pdf'></object>
+
 <iframe src="https://drive.google.com/file/d/1HioLGnGbGcKxHM411SlkmyJFIm-tskUs/preview" width="640" height="480" allow="autoplay"></iframe>
