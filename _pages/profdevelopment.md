@@ -5,11 +5,20 @@ toc_sticky: true
 ---
 
 # Research
-## What is research in psychology
-*coming soon...*
+**What is research in psychology?**
+
+The goal of psychological research is to gather empirical evidence that can help explain and predict various aspects of human behavior, cognition, and emotion. Research is vital to psychology as it helps the field progress, refine theories, and apply findings to real world situations. 
+
+Psychological research guides clinical practice in mental healthcare, contributes to creating social change, is an important component in the courtroom, can help to improve public policy, and SO much more.
+
+Introduction to Research Methods is a required course at Smith College because of the important role research plays in psychology. Research is relevant in any field: having the skills to consume, critique, and share psychological research prepares students for various career paths.
+
+**Why pursue research opportunities as an undergraduate?**
+
+Volunteering in a research lab as an undergraduate is a fantastic work experience, even for those who do not intend to pursue a career in academia. As a research assistant, you'll learn to work with real datasets using analysis software, developing hard skills that will set you apart for future jobs. You'll also learn how to read, gather, and present on preexisting literature–– a skill that will prepare you to suceed in upper level coursework. Working in research also allows you to develop a strong professional network with your professors.
 
 ## How to get involved in research
-*coming soon...*
+...
 
 ## How to find jobs or internships in research
 ### Psychology department mastersheet
