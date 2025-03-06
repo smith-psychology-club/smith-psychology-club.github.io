@@ -38,7 +38,7 @@ Here is a link to a [sample CV template](https://docs.google.com/document/d/1Zja
 <object data="../assets/How to _cold email_.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 ## Funding for Psychology Students
-<iframe src="https://docs.google.com/document/d/1-6nwc5ApUUWtINZQFVwwPG2S4UPFxM-afTK9bv9qr3g/edit?tab=t.0#heading=h.r9jl4n7w57t" frameborder="0" width="104%%" height="650" scrolling="yes"></iframe>
+<object data="../assets/Finding funding.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 ## How to: Write a cover letter
 *coming soon...*
