@@ -5,6 +5,7 @@ toc_sticky: true
 ---
 
 # Research
+This slideshow gives an overview of why engagement with psychological research can be valuable for undergraduates and how to find jobs and internships.
 <object data="../assets/research.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 ## Psychology department mastersheet
