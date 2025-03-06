@@ -81,9 +81,19 @@ Visit the official [Smith College Website](https://www.smith.edu/academics/class
 
 ## Psi Chi Honor Society at Smith
 
-{% include figure popup=true image_path="/assets/images/joinpsichi.jpg" %}
+Psi Chi is an international honor society that recognizes students majoring in psychology. Being a member of Psi Chi grants you opportunities to learn about and present research, access to a wide array of grants and scholarships, introduces you to a network of psychology scholars within Smith's chapter and across the globe, looks great on your CV, and much more! 
 
-{% include figure popup=true image_path="/assets/images/memberpsichi.jpg" %}
+**To be eligible for acceptance in Psi Chi here at Smith, you must have:**
+1. Declared a major or minor in psychology at Smith College
+2. Completed at least 6 psychology courses, or have completed 5 psychology courses at the time of
+application and currently be enrolled in 1 or more psychology course
+3. A cumulative GPA of 3.0 or higher in general studies, and a cumulative GPA of 3.3 or higher in all
+psychology courses
+
+*On occasion, by petitioning for special consideration, admittance to Psi Chi may be achieved for those who
+do not meet the minimum GPA requirements for membership.* 
+
+{% include figure popup=true image_path="/assets/images/psichi.jpg" %}
 
 # Academic Resources
 ## Writing
