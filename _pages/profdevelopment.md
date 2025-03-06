@@ -48,5 +48,5 @@ Here is a link to a [sample CV template](https://docs.google.com/document/d/1Zja
 # Student Internship Panel - Spring 2025
 <iframe src="https://drive.google.com/file/d/1bsa0Q14jCYmItPZNHodxijBnZLrILRmi/preview" width="640" height="480" allow="autoplay"></iframe>
 
-# Clinical Psychology 
+# Careers in Clinical Psychology - Spring 2025
 <iframe src="https://drive.google.com/file/d/1HioLGnGbGcKxHM411SlkmyJFIm-tskUs/preview" width="640" height="480" allow="autoplay"></iframe>
