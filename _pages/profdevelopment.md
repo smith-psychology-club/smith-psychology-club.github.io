@@ -30,7 +30,7 @@ The psychology department at Smith College maintains a list of post-bacc researc
 
 # Additional guides
 ## How to: Write a CV
-<object data="../assets/Guide to writing a Psychology CV.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="../assets/Guide to Writing a Psychology CV.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 Here is a link to a [sample CV template](https://docs.google.com/document/d/1Zja9VORfgEzS9WiPOrI6d3Va8Y0wxac3yIxjZIgId1w/edit?usp=sharing)
 
