@@ -6,6 +6,10 @@ toc_sticky: true
 
 This page contains several external resources for graduate school in psychology.
 
+# Smith College
+## Clinical Psychology Grad School Presentation - 2021
+<object data="../assets/Grad School in Clinical and Counseling Psych 2021 (1).pdf" width="1000" height="1000" type='application/pdf'></object>
+
 # Outside resources 
 
 ## The Portable Mentor: Expert Guide to a Successful Career in Psychology (3rd e.d.)
