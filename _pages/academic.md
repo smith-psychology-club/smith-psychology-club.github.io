@@ -67,7 +67,7 @@ Common departments often paired with psychology:
 And many more!
 
 ## Special Studies in Psychology 
-*coming soon...*
+A special studies is a course you design with a Smith for 5c faculty member and is open by instructor permission. Special studies are typically 2-4 credits in one semester. Students usually pursue these credits after taking a course with a faculty member and finding that they are interested in exploring more about a particular topic. Some students may complete a special studies as part of an ongoing research project with a faculty member. 
 
 ## Honors Thesis in Psychology
 
