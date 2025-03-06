@@ -21,6 +21,10 @@ Volunteering in a research lab as an undergraduate is a fantastic work experienc
 ...
 
 ## How to find jobs or internships in research
+1. **Talk to your professors.** Prepare an agenda for your meeting beforehand. Consider what type of a research internship or job you're looking for (i.e. clinical, social psych, etc.), where you'd like to be geographically (do you need to be at home? on campus?), what type of funding situation you'll be in (can you work an unpaid volunteer position, apply for funding support), and what kinds of projects you'd want to work on. Your professors cannot *get* you jobs or internships, but if you provide enough information about your expectations for the position, they could help you locate several opportunities to apply for.
+2. **Networking online.** Websites like LinkedIn, Handshake and the Smith Alumni Network (both for Smith students) can connect you with possible internship opportunities. In academia, LinkedIn is not as commonly used as other fields. Most researchers who network online and post internship or job opportunities are on **X/Twitter** or **BlueSky** (an alternative to X). Many research labs have accounts on these sites and will post or repost research opportunities.
+3. **Peer networking.** Find out what your classmates or recent alums have done with their psychology majors! Chances are, if an internhip or job site has recently had someone from your college work for them, they may be open accepting another student. Sometimes a little bit of internet sleuthing can go a long way: look into some recent alums on various professional networking sites and figure out what they do!
+   
 ### Psychology department mastersheet
 The psychology department at Smith College maintains a list of post-bacc research jobs and summer internships. [Click here](https://docs.google.com/spreadsheets/d/1LuaMWjDd07UBR94SDn0MjhPqaB1gqrv0h3rPE2G73cA/edit?usp=sharing) to access it.
 
