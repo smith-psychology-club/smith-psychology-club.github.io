@@ -79,6 +79,10 @@ The project culminates in a paper that is equivalent to a publishable journal ar
 
 Visit the official [Smith College Website](https://www.smith.edu/academics/class-deans/departmental-honors) for FAQ about Honors Theses across departments.
 
+## Psi Chi Honor Society at Smith
+
+{% include figure popup=true image_path="/assets/images/joinpsichi.jpg" %}
+{% include figure popup=true image_path="/assets/images/memberpsichi.jpg" %}
 
 # Academic Resources
 ## Writing
