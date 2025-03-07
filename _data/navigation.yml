@@ -3,6 +3,8 @@ main:
     url: /academic/
   - title: "Professional Development"
     url: /profdevelopment/
+  - title: "Events"
+    url: /events/
   - title: "Graduate School"
     url: /gradschool/
   - title: "Website Feedback"
