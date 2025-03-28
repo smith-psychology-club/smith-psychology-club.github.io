@@ -13,6 +13,7 @@ This page contains information about:
 - Studying psychology at Smith
     - Requirements for the major/minor
     - How to declare a major/minor
+    - Professors at Smith
 - Graduate school resources
 
 {% include figure popup=true image_path="/assets/images/academics.jpg" %}
