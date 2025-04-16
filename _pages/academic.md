@@ -106,6 +106,26 @@ Writing for psychology can be a challenge for some undergraduates as most studen
 ### APA citation style
 *several resources coming soon...*
 
+## Diagnostic Manuals
+
+According to the the [Royal Australian and New Zealand College of Psychiatrists (RANZCP)](https://www.ranzcp.org/clinical-guidelines-publications/clinical-guidelines-publications-library/diagnostic-manuals), there are two diagnostic manuals commonly used in psychology as of 2025: the *Diagnostic and Statistical Manual, 5th Edition, Text Revised* (DSM-5-TR) and the *International Classification of Diseases, 11th Edition, Clinical Descriptions and Diagnostic Requirements* (ICD-11 CDDR). 
+
+### DSM-5-TR
+
+Published by the American Psychiatric Association in March 2022, the DSM-5-TR covers all categories of mental disorders for children, adolescents, and adults. This is a diagnostic manual primarily used in the United States. However, several journal articles have noted that the DSM system is used in research and as an alternative diagnostic classification system worldwide. 
+
+With a Smith College email address, you can access a copy of the [DSM-5-TR](https://drive.google.com/file/d/161B-Odz0MJycEiSoDp8UA-EaJFWlBOGY/view?usp=sharing) for your perusal.
+
+### ICD-11 CDDR
+
+Approved by the 72nd World Health Assembly in May 2019 and released in January 2022, the ICD-11 CDDR provides clinically useful information on mental, behavioral, and neurodevelopmental disorders for professionals in international healthcare settings. Even though the ICD-11 CDDR will not be used as often as the DSM-5-TR during your time here in the United States, Smith psychology students must embrace their identities as global citizens and remain aware of what is used in other countries.
+
+With a Smith College email address, you can access a copy of the [ICD-11 CDDR](https://drive.google.com/file/d/1P0iaOi_-6I9YSyVBBq3JM7a0FKhQo3tf/view?usp=sharing) for your perusal.
+
+In addition to the diagnostic manual, there is also the *ICD-11 for Mortality and Morbidity Statistics* (ICD MMS). This includes brief descriptions and the insurance codes of all internationally recognized physical and psychological disorders. 
+
+With a Smith College email address, you can access a copy of the [ICD-11 MMS](https://drive.google.com/file/d/1uqXAiMAB2g6m_YGNLOkqU03D6-GmS92x/view?usp=sharing) for your perusal.
+
 ## Smith College resources
 Smith offers a number of resources for students seeking academic support.
 - [The Jacobson Center](https://www.smith.edu/academics/integrative-learning/jacobson-center-writing-teaching-learning)
