@@ -46,6 +46,7 @@ coming soon...
 this section will be about non-research extracurriculars, volunteering, community involvement, etc.
 
 # Additional guides
+
 ## How to: Write a CV
 <object data="../assets/Guide to Writing a Psychology CV.pdf" width="1000" height="1000" type='application/pdf'></object>
 
