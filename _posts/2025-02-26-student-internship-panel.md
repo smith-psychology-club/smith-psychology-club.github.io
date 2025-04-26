@@ -7,6 +7,8 @@ categories:
   - Panels
 ---
 
+<iframe src="https://drive.google.com/file/d/1bsa0Q14jCYmItPZNHodxijBnZLrILRmi/preview" width="640" height="480" allow="autoplay"></iframe>
+
 Check out the recording of a recent panel at which four psychology students shared their experiences navigating summer internships. 
 From applications, to cold emails, to day-to-day tasks, hear what these students had to say about their internships! 
 (Featuring live Q&A).
@@ -19,5 +21,3 @@ From applications, to cold emails, to day-to-day tasks, hear what these students
 
 ### Moderated by:
 Patrizia Picado, 2026
-
-<iframe src="https://drive.google.com/file/d/1bsa0Q14jCYmItPZNHodxijBnZLrILRmi/preview" width="640" height="480" allow="autoplay"></iframe>
