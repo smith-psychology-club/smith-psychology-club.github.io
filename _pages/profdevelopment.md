@@ -7,10 +7,10 @@ toc_sticky: true
 # Research
 Psychology is an empirical science. Students may find that their understanding of the field is enhanced by going beyond their classroom education to engage with original research. 
 
-### Curricular research: 200 level
+## Curricular research: 200 level
 All Psychology majors and most Psychology minors can try their hands at conducting original research by taking one of our 200-level Research Methods (PSY 202) courses. These courses provide foundational knowledge about how to do Psychology research along with a basic “hands-on” introduction to the research process. 
 
-### Curricular research: 300 level
+## Curricular research: 300 level
 Students may seek advanced coursework in doing research by enrolling in one of our many 300-level “Research Seminars.” Research Seminars typically engage students in research procedures that are part of a faculty member’s original research. Such seminars can be a training ground to be invited to join a faculty member’s research group as a regular member. 
 
 ## Extraurricular research
@@ -41,7 +41,7 @@ This slideshow gives an overview of why engagement with psychological research c
 ## Job and internship mastersheet
 The psychology department at Smith College maintains a list of post-bacc research jobs and summer internships. [Click here](https://docs.google.com/spreadsheets/d/1LuaMWjDd07UBR94SDn0MjhPqaB1gqrv0h3rPE2G73cA/edit?usp=sharing) to access it.
 
-## Extracurriculars
+# Extracurriculars
 coming soon...
 this section will be about non-research extracurriculars, volunteering, community involvement, etc.
 
@@ -66,13 +66,3 @@ Here is a link to a [sample CV template](https://docs.google.com/document/d/1Zja
 
 ## Tips for interviews
 *coming soon...*
-
-# Student Internship Panel - Spring 2025
-<iframe src="https://drive.google.com/file/d/1bsa0Q14jCYmItPZNHodxijBnZLrILRmi/preview" width="640" height="480" allow="autoplay"></iframe>
-
-# Careers in Clinical Psychology - Spring 2025
-The slides below give a brief introduction to clinical psychology career paths, spanning information from your time at Smith, to graduate school, to later career:
-<object data="../assets/Clinical psych INFO.pdf" width="1000" height="1000" type='application/pdf'></object>
-
-## Zoom panel from March 2025: Careers in Clinical Psychology
-<iframe src="https://drive.google.com/file/d/1HioLGnGbGcKxHM411SlkmyJFIm-tskUs/preview" width="640" height="480" allow="autoplay"></iframe>
