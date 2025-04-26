@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Careers in Clinical Psychology: Panel"
 date: 2025-03-05
 excerpt: "The Psychology Club hosted a recent event titled \"Careers in Clinical Psychology\" during which our own Professor Stephanie Jarvi Steele..."
