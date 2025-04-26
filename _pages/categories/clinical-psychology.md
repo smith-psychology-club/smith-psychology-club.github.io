@@ -8,8 +8,6 @@ layout: default
   <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
 </head>
 
-<h2>Posts in the Clinical Psychology Category</h2>
-
 <div class="posts-list">
   {% assign category_posts = site.categories["Clinical Psychology"] %}
   {% for post in category_posts %}
