@@ -8,18 +8,7 @@ toc_sticky: true
   <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
 </head>
 
-    <!-- Categories with Post Counts -->
-    <div class="category-list">
-      <h3>Categories</h3>
-      <ul>
-        {% for category in site.categories %}
-          <li>
-            <a href="/categories/{{ category[0] | slugify }}">{{ category[0] }}</a> ({{ category[1].size }})
-          </li>
-        {% endfor %}
-      </ul>
-    </div>
-  </div>
+# All posts
 
 <div class="posts-list">
   {% for post in site.posts %}
