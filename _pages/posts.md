@@ -3,6 +3,10 @@ permalink: /posts/
 title: "Posts"
 layout: default
 ---
+<head>
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
+</head>
+
 <div class="posts-list">
   {% for post in site.posts %}
     <div class="post-preview">
