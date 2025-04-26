@@ -3,6 +3,9 @@ title: "Clinical Psychology"
 permalink: /categories/clinical-psychology/
 layout: default
 ---
+<head>
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
+</head>
 
 <h2>Posts in the Clinical Psychology Category</h2>
 
