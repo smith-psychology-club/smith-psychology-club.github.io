@@ -18,7 +18,7 @@ layout: default
         {% if post.excerpt %}
           <p>{{ post.excerpt }}</p>
         {% else %}
-          <p>{{ post.content | strip_html | truncatewords: 15 }}</p>
+          <!-- Leave it blank if no excerpt exists -->
         {% endif %}
       </div>
 
