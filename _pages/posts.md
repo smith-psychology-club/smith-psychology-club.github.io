@@ -1,6 +1,7 @@
 ---
 permalink: /posts/
 title: "Posts"
+toc_sticky: false
 ---
 <head>
   <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
