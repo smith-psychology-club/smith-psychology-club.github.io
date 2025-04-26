@@ -3,40 +3,55 @@ permalink: /posts/
 title: "Posts"
 layout: default
 ---
+<div class="posts-list">
+  {% for post in site.posts %}
+    <div class="post-preview">
+      <h2><a href="{{ post.url }}" class="post-title">{{ post.title }}</a></h2>
+      <p class="post-date">{{ post.date | date: "%B %d, %Y" }}</p>
 
-{% for post in site.posts %}
-  <div class="post-preview">
-    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-    <p class="post-date">{{ post.date | date: "%B %d, %Y" }}</p>
+      <div class="post-excerpt">
+        {% if post.excerpt %}
+          <p>{{ post.excerpt }}</p>
+        {% else %}
+          <p>{{ post.content | strip_html | truncatewords: 40 }}</p>
+        {% endif %}
+      </div>
 
-    <div class="post-excerpt">
-      {% if post.excerpt %}
-        <p>{{ post.excerpt }}</p>
-      {% else %}
-        <p>{{ post.content | strip_html | truncatewords: 40 }}</p>
-      {% endif %}
+      <!-- Categories with links -->
+      <div class="post-categories">
+        {% if post.categories %}
+          <ul class="categories-list">
+            {% for category in post.categories %}
+              <li class="category-item">
+                <a href="/categories/{{ category | slugify }}" class="category-link">{{ category }}</a>
+              </li>
+            {% endfor %}
+          </ul>
+        {% endif %}
+      </div>
+
+      <!-- Embedding Image or Video -->
+      <div class="post-media">
+        {% assign media_found = false %}
+        {% for image in post.images %}
+          {% if media_found == false %}
+            <img src="{{ image }}" alt="Post Image" class="post-image">
+            {% assign media_found = true %}
+          {% endif %}
+        {% endfor %}
+        
+        <!-- Handle Embedded Videos -->
+        {% if post.content contains "<iframe" %}
+          <div class="embedded-video">
+            {% capture embedded_content %}
+              {{ post.content | split: "</iframe>" | first }}
+            {% endcapture %}
+            {{ embedded_content }}
+          </div>
+        {% endif %}
+      </div>
+
+      <a href="{{ post.url }}" class="read-more">Read more →</a>
     </div>
-
-    <div class="post-categories">
-      {% if post.categories %}
-        <ul class="categories-list">
-          {% for category in post.categories %}
-            <li class="category-item">{{ category }}</li>
-          {% endfor %}
-        </ul>
-      {% endif %}
-    </div>
-
-    <div class="post-media">
-      {% if post.content contains "<img" %}
-        <p>Embedded Image:</p>
-        {{ post.content | remove: "<div class='image' >" | remove: "</div>" }}
-      {% elsif post.content contains "<iframe" %}
-        <p>Embedded Video/Content:</p>
-        {{ post.content | strip_html }}
-      {% endif %}
-    </div>
-
-    <a href="{{ post.url }}" class="read-more">Read more →</a>
-  </div>
-{% endfor %}
+  {% endfor %}
+</div>
