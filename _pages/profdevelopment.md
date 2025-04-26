@@ -41,7 +41,7 @@ This slideshow gives an overview of why engagement with psychological research c
 ## Job and internship mastersheet
 The psychology department at Smith College maintains a list of post-bacc research jobs and summer internships. [Click here](https://docs.google.com/spreadsheets/d/1LuaMWjDd07UBR94SDn0MjhPqaB1gqrv0h3rPE2G73cA/edit?usp=sharing) to access it.
 
-# Extracurriculars
+## Extracurriculars
 coming soon...
 this section will be about non-research extracurriculars, volunteering, community involvement, etc.
 
