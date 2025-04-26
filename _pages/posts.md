@@ -18,7 +18,7 @@ layout: default
         {% if post.excerpt %}
           <p>{{ post.excerpt }}</p>
         {% else %}
-          <p>{{ post.content | strip_html | truncatewords: 40 }}</p>
+          <p>{{ post.content | strip_html | truncatewords: 15 }}</p>
         {% endif %}
       </div>
 
@@ -32,27 +32,6 @@ layout: default
               </li>
             {% endfor %}
           </ul>
-        {% endif %}
-      </div>
-
-      <!-- Embedding Image or Video -->
-      <div class="post-media">
-        {% assign media_found = false %}
-        {% for image in post.images %}
-          {% if media_found == false %}
-            <img src="{{ image }}" alt="Post Image" class="post-image">
-            {% assign media_found = true %}
-          {% endif %}
-        {% endfor %}
-        
-        <!-- Handle Embedded Videos -->
-        {% if post.content contains "<iframe" %}
-          <div class="embedded-video">
-            {% capture embedded_content %}
-              {{ post.content | split: "</iframe>" | first }}
-            {% endcapture %}
-            {{ embedded_content }}
-          </div>
         {% endif %}
       </div>
 
