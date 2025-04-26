@@ -13,6 +13,7 @@ layout: default
       <h2><a href="{{ post.url }}" class="post-title">{{ post.title }}</a></h2>
       <p class="post-date">{{ post.date | date: "%B %d, %Y" }}</p>
 
+      <!-- Preview (Excerpt) -->
       <div class="post-excerpt">
         {% if post.excerpt %}
           <p>{{ post.excerpt }}</p>
