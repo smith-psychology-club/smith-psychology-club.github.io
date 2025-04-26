@@ -1,7 +1,6 @@
 ---
 permalink: /posts/
 title: "Posts"
-layout: default
 toc_sticky: true
 ---
 <head>
