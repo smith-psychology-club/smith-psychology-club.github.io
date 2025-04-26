@@ -1,13 +1,10 @@
 ---
 permalink: /posts/
 title: "Posts"
-toc_sticky: true
 ---
 <head>
   <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
 </head>
-
-# All posts
 
 <div class="posts-list">
   {% for post in site.posts %}
