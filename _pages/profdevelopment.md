@@ -38,14 +38,39 @@ With a Smith College email address, you can access [this folder](https://drive.g
 This slideshow gives an overview of why engagement with psychological research can be valuable for undergraduates and how to find jobs and internships.
 <object data="../assets/research.pdf" width="1000" height="1000" type='application/pdf'></object>
 
-## Job and internship mastersheet
-The psychology department at Smith College maintains a list of post-bacc research jobs and summer internships. [Click here](https://docs.google.com/spreadsheets/d/1LuaMWjDd07UBR94SDn0MjhPqaB1gqrv0h3rPE2G73cA/edit?usp=sharing) to access it.
+## Jobs and internships mastersheet 
+
+The Psychology Department at Smith College maintains a list of post-bacc research jobs and summer internships. [Click here](https://docs.google.com/spreadsheets/d/1LuaMWjDd07UBR94SDn0MjhPqaB1gqrv0h3rPE2G73cA/edit?usp=sharing) to access it.
+
+## Psychology labs in Smith College
+
+Unlike research labs for biology and chemistry, psychology research labs in Smith College are more hush-hush. The Psychology Club was able to compile an **unofficial** list of research labs for psychology, neuroscience, and the humanities, as of Spring 2025. With a Smith College email address, you can access the list [here](https://docs.google.com/document/d/1l1ZoIqiRQaKAhrB-KuJS4nEvzU7CFVfbREUeSPvsU-c/edit?usp=sharing).
+
+**Disclaimer:** Students must keep in mind that some labs may not be looking for research assistants at the moment. Some professors may even be on sabbatical. This isn't a definitive list of all psychology research opportunities at Smith; students are **highly encouraged** to reach out to professors and see what research opportunities are available. If you're unsure on how to reach out, scroll further down to learn how to write a cold email.
+
+## Psychology labs in Five College Consortium
+
+**Some research labs** at other academic institutions in the Five College Consortium are open to Smith College students. Interested Smith psychology students **must reach out** to professors and/or lab managers to see if they're eligible to apply. If you're unsure on how to reach out, scroll further down to learn how to write a cold email.
+
+- Here is the official list of psychology and neuroscience research labs at the [University of Massachusetts Amherst](https://www.umass.edu/psychological-brain-sciences/research/laboratories).
+
+- Here is the official list of psychology and neuroscience research labs at [Amherst College](https://www.amherst.edu/academiclife/departments/psychology/research_labs).
+
+- Here is the official list of psychology and neuroscience research labs at [Mount Holyoke College](https://sites.google.com/mtholyoke.edu/psych-ed-indp-stdy/research-info/lab-info?authuser=0).
 
 # Extracurriculars
-coming soon...
-this section will be about non-research extracurriculars, volunteering, community involvement, etc.
+*coming soon...*
+*this section will be about non-research extracurriculars, volunteering, community involvement, etc.*
 
 # Additional guides
+
+## Vault Guide to Social Service Jobs
+
+Thanks to the Lazarus Center for Career Development, Smith students have access to the [Vault](https://smith.vault.com/welcome). This up-to-date career library includes career guidebooks for a variety of industries, blog posts about topics ranging from job interview tips to perfecting your cover letter, and internship rankings for each industry. 
+
+The *Vault Guide to Social Service Jobs, Second Edition* contains key information about social service jobs, including common job responsibilities, typical salary ranges, required certifications, tips for entry, and so much more. 
+
+With a Smith College email address, you can access a PDF copy of the [Vault Guide to Social Service Jobs, Second Edition](https://drive.google.com/file/d/1esZqrZwyLV9N7GNWIoO4N80HdLHrFa6n/view?usp=sharing) for your perusal. You're also welcome to access the guide on Vault.
 
 ## How to: Write a CV
 <object data="../assets/Guide to Writing a Psychology CV.pdf" width="1000" height="1000" type='application/pdf'></object>
