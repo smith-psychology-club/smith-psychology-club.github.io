@@ -7,9 +7,13 @@ toc_sticky: true
 # Research at Smith College
 Research plays a crucial role in expanding our understanding of the world and contributing to the well-being of society. For students, research extends learning beyond the classroom and encourages active engagement, innovative collaboration, and problem-solving. It's fantastic work experience, even for those who aren't pursuing careers in academia or industry research, because it develops skills that can bolster your CV/résumé.
 
+## How Popular is Research at Smith?
+Since the college prioritizes undergraduates, Smith students don't have to compete with graduate students for opportunities, such as conference attendance, publication authorship, and research leadership roles, as they often would at larger universities. As of 2026, around 80% of Smith students, including 50% of STEM majors, conduct research or complete one-on-one projects with professors before graduating. 
+
+## Research Skills
 Some skills you might gain in courses and/or labs include but are not limited to:
 
-- Academic database navigation for literature reviews (e.g. Google Scholar, PsycINFO, PubMed)
+- Academic database navigation for literature reviews (e.g. PsycINFO, PubMed)
 
 - Computer programming and markdown languages (e.g. LaTeX, Python, MatLab, R, R Markdown) 
 
@@ -18,8 +22,6 @@ Some skills you might gain in courses and/or labs include but are not limited to
 - Data collection and survey management software (e.g. Qualtrics, REDCap)
 
 - Data analysis software (e.g. Excel, Google Sheets, RStudio, SPSS)
-
-As of 2026, around 80% of Smith students, including 50% of STEM majors, conduct research or complete one-on-one projects with professors before graduating. Since the college prioritizes undergraduates, Smith students don't have to compete with graduate students for opportunities, such as conference attendance, publication authorship, and research leadership roles, as they often would at larger universities.
 
 
 # How to Get Involved in On-Campus Psychology Research
@@ -52,15 +54,15 @@ Students interested in pursuing off-campus research opportunities often apply fo
 
 - Here is the official list of psychology and neuroscience research labs at [Mount Holyoke College](https://sites.google.com/mtholyoke.edu/psych-ed-indp-stdy/research-info/lab-info?authuser=0).
 
-## Other Places
+## Other Institutions 
 Psychology research can occur in a variety of settings, such as small- and mid-sized colleges, R1 universities, medical centers, and non-profit organizations. During their time at Smith, psychology students have snagged research opportunities at: 
 
 - postsecondary institutions in the United States (e.g. Geisel School of Medicine at Dartmouth; Georgetown University; Northeastern University; University of California, Berkeley; University of Massachusetts Amherst)
 
-- postsecondary institutions beyond the United States (e.g. Tsinghua University, VNU University of Education)
+- postsecondary institutions outside of the United States (e.g. Tsinghua University, VNU University of Education)
 
 - medical centers (e.g. Brattleboro Retreat, McLean Hospital, Lurie Center for Autism)
 
 Students interested in conducting psychology research at off-campus institutions are encouraged to explore university laboratory websites and the research internship pages of medical centers. Feel free to check out lab accounts on Twitter/X and Bluesky or the [Psychology Jobs & Internships website](https://psychologyjobsinternships.wordpress.com). 
 
-Be intentional about when and where you pursue a research internship, as experiences can vary considerably. Serving as a virtual research assistant for a lab in an Ivy League institution offers a very different experience from working as an in-person intern at a research hospital.
+Be intentional about when and where you pursue a research internship, as experiences can vary considerably. Serving as a virtual research assistant for a lab in an Ivy League institution offers a very different experience from working as an in-person intern at a research hospital. If you're interested in pursuing an internship abroad, make sure that the necessary travel paperwork is complete. If you have questions, you can contact the Lazarus Center for Career Development and the Lewis Global Studies Center.

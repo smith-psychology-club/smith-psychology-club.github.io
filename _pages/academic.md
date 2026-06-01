@@ -7,32 +7,45 @@ This page contains information about the psychology department at Smith College 
 
 {% include figure popup=true image_path="/assets/images/library.jpg" %}
 
-# Psychology at Smith College
-## Three learning tracks
-The psychology curriculum is organized around the following tracks of study:
+# Psychology Curriculum
+
+## Three Learning Tracks
+The psychology curriculum is structured to develop the skills and objectives set forth in the department's learning goals. Courses are generally organized around the following tracks of study:
+
 1. **Mind and Brain**
     - Cognitive Psychology
-    - Neuropsychology
     - Cognitive Neuroscience
+    - Neuropsychology
 2. **Health and Illness**
     - Clinical Psychology
     - Health Psychology
+    - Sports Psychology
 3. **Person and Society**
+    - Developmental Psychology (technically spans all 3 tracks)
     - Personality Psychology
     - Social Psychology
-    - Developmental Psychology (technically spans all 3 tracks)
+    
+Please note that Smith doesn't have classes for some sub-disciplines in psychology (e.g. industrial-organizational psychology, speech-language pathology). Students are strongly recommended to look at courses in Amherst College, Mount Holyoke College, and the University of Massachusetts at Amherst for more opportunities.
 
 {% include figure popup=true image_path="/assets/images/tracks.sized.jpg" %}
 
-## Psychology major requirements
+## Psychology Major Requirements
 
-{% include figure popup=true image_path="/assets/images/2025major.jpg" %}
+| Type of Courses | Description  | Eligible Courses |  
+|:-----------|:----------------------------|:------------------|  
+| Foundation Courses  | Three mandatory courses, typically completed by the end of the sophomore year.  | PSY 100, SDS 201/210 & SDS 100, PSY 202 |  
+| Breadth Courses  | At least one course must be taken in each of the three learning tracks. | 100-, 200-, and 300-level courses in **Mind & Brain**, **Health & Illness**, and **Person & Society** |  
+| Depth Courses | Two colloquium courses. Two courses at an advanced level, one of which must be seminar. | Two 200-level courses. At least one 300-level course, such as a Seminar or Research Seminar; Special Studies (PSY 400) or Honors Theses (PSY 430D / 431 / 432D) can count as an advanced level course. |  
 
-## Psychology minor requirements
+## Psychology Minor Requirements
 
-{% include figure popup=true image_path="/assets/images/2025minor.jpg" %}
+| Type of Courses | Description  | Eligible Courses |  
+|:-----------|:----------------------------|:------------------|  
+| Foundation Courses  | Two of the three foundation courses for the major.  | PSY 100, SDS 201/210 & SDS 100 **OR** PSY 202 |  
+| Breadth Courses   | Four courses must be taken from at least two of the learning tracks.  | 100-, 200-, and 300-level courses in **Mind & Brain**, **Health & Illness**, and/or **Person & Society**  |
+| Depth Courses | One colloquium and one seminar. | One 200-level course. One 300-level course, such as a Seminar or Research Seminar. |  
 
-## How to declare a major/minor
+## How to Declare a Major/Minor
 There are two primary ways to declare:
 1. Ask one of your Psychology instructors to be your adviser
     - Some professors may be at advisee capacity and unable to take you on at that time. Don't be intimidated to ask and don't take it personally if they say no!
@@ -40,46 +53,40 @@ There are two primary ways to declare:
 
 {% include figure popup=true image_path="/assets/images/collegehalll.jpg" %}
 
-## Broadening your horizons: Other paths of study
+# Broadening Your Horizons: Other Paths of Study
 
-Many students find that the psychology major is enhanced by learning in other departments, whether it be through taking other courses, declaring a minor, or declaring a second major.
+Many students find that the psychology major is strengthened by complementary academic programs, whether through additional coursework, a minor, a second major, a concentration, or a Five College Certificate.
 
-Common departments often paired with psychology:
+## Common Academic Disciplines for Majors and Minors
 
-- **Statistical and Data Science**
+It's common for psychology majors to have a second major or minor in one of the following departments:
+
+- **Computer Science**
+    - Major in CSC
+    - Minor in CSC
+    
+- **Education and Child Study**
+    - Major in EDC
+    - Minor in EDC   
+    
+- **Neuroscience**
+    - Major in Neuroscience
+    - Minor in Neuroscience
+    
+- **Statistical and Data Sciences**
     - Major in SDS
     - Major in Mathematical Statistics
     - Minor in SDS
     - Minor in Applied Statistics 
 
-- **Education and Child Study**
-    - Major in EDC
-    - Minor in EDC
+Sometimes, psychology majors might get a second major or minor in English Language & Literature, Government, Religion, Sociology, Studio Art, Study of Women, Gender, & Sexuality, or a foreign language (e.g. Spanish or French Studies). If you're not interested in any of the aforementioned disciplines, that's okay. Take advantage of Smith's open curriculum and find what excites you!
 
-- **Computer Science**
-    - Major in CSC
-    - Minor in CSC
+## Concentrations and Certificates
 
-- **Neuroscience**
-    - Major in Neuroscience
-    - Minor in Neuroscience
+It's not common for psychology majors to pursue a concentration but **Community Engagement & Social Change**, **Poetry**, and **Journalism** are concentrations that Smith psych students have declared in recent history. The Five College Certificates most compatible with the psychology major are **Cognitive Neuroscience** and **Culture, Health, & Science** but there are many more to explore. If your interests deviate from what's listed, don't hesitate to chart your own path. Who knows? Maybe other Smithies will follow your lead.
 
-And many more!
 
-## Special Studies in Psychology 
-A special studies is a course you design with a Smith for 5c faculty member and is open by instructor permission. Special studies are typically 2-4 credits in one semester. Students usually pursue these credits after taking a course with a faculty member and finding that they are interested in exploring more about a particular topic. Some students may complete a special studies as part of an ongoing research project with a faculty member. 
-
-## Honors Thesis in Psychology
-
-The departmental honors thesis is for senior psychology majors interested in conducting independent research on a particular topic. Honors students work closely with a faculty member to conceptualize, design, and conduct an empirical research project.
-
-Please note: faculty members from outside the Smith Psychology department are not eligible to serve as thesis advisers; the principal adviser of a psychology honors thesis must be a Smith Psychology Department faculty member. 
-
-The project culminates in a paper that is equivalent to a publishable journal article in quality and length (i.e., about 30-50 pages of text and written in APA style). At the end of the academic year, Honors students present their projects to the department as a whole. Successful completion of an Honors thesis leads to departmental honors upon graduation.
-
-Visit the official [Smith College Website](https://www.smith.edu/academics/class-deans/departmental-honors) for FAQ about Honors Theses across departments.
-
-## Psi Chi Honor Society at Smith
+# Psi Chi Honor Society at Smith
 
 Psi Chi is an international honor society that recognizes students majoring in psychology. Being a member of Psi Chi grants you opportunities to learn about and present research, access to a wide array of grants and scholarships, introduces you to a network of psychology scholars within Smith's chapter and across the globe, looks great on your CV, and much more! 
 
@@ -96,6 +103,7 @@ do not meet the minimum GPA requirements for membership.*
 {% include figure popup=true image_path="/assets/images/psichi.jpg" %}
 
 # Academic Resources
+
 ## Writing
 
 Writing for psychology can be a challenge for some undergraduates as most students have not taken college-level psychology courses before.
