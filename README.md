@@ -20,10 +20,13 @@ The home page is a splash page. This file is called **index.md**.
 The 'how to navigate' page is called **about.md** and is located in the _pages directory.
 
 ### Academics
-The 'academics' page is called **academics.md** and is located in the _pages directory.
+The 'academic' page is called **academic.md** and is located in the _pages directory.
 
-### Extracurricular
-The 'extracurricular' page is called **extracurricular.md** and is located in the _pages directory.
+### Research
+The 'research' page is called **research.md** and is located in the _pages directory.
+
+### Professional Development
+The 'professional development' page is called **profdevelopment.md** and is located in the _pages directory.
 
 This site was made following the minimal mistakes guide for creating a github pages website. Minimal mistakes is a jekyll theme. You can
 reference this website: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/ as a guide for how to add certain features.
