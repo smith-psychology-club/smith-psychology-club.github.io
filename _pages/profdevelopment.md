@@ -22,9 +22,9 @@ With a Smith College email address, you can access a PDF copy of the [Vault Guid
 **More resources will be added. Stay tuned!**
 
 ## Other Careers
-In 2021, colleges in the United States awarded 134,407 bachelor's degrees in psychology to the graduating class, showing how psychology has become one of the most popular undergraduate majors nationwide [(Stamm et al., 2023)](https://www.apa.org/monitor/2023/11/potential-psychology-degree-decline). And before you ask, no, not all 134,407 of them went on to careers in clinical practice or scientific research. There are plenty of careers out there where psychology is a solid foundation—some that might surprise you and others that hide in plain sight.
+In 2021, colleges in the United States awarded 134,407 bachelor's degrees in psychology to the graduating class, showing how psychology has become one of the most popular undergraduate majors nationwide [(Stamm et al., 2023)](https://www.apa.org/monitor/2023/11/potential-psychology-degree-decline). And before you ask, no, not all 134,407 of them went on to careers in clinical practice or scientific research. There are plenty of careers out there where psychology knowledge is needed—some that might surprise you and others that hide in plain sight.
 
-If students don't want to get into therapy or conduct research, they can consider becoming an admissions counselor, career counselor, forensic psychologist, human resources coordinator, industrial/organizational psychologist, marketing manager, market research analyst, probation officer, training and development specialist, teacher, UX researcher, and so much more! Check out the resources below for more information:
+If students don't want to provide therapy or conduct research, they can consider becoming an admissions counselor, career counselor, forensic psychologist, human resources coordinator, industrial/organizational psychologist, marketing manager, market research analyst, probation officer, training and development specialist, teacher, UX researcher, and so much more! Check out the resources below for more information:
 
 - [Mapping Your Future: An Overview of Psychology Career Paths (Eye on Psi Chi, Winter 2025)](https://www.psichi.org/page/302Eye_Mapping-Your-Future-An-Overview-of-Psychology-Caree-Paths)
 
