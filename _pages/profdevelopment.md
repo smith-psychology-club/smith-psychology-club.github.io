@@ -26,7 +26,7 @@ In 2021, colleges in the United States awarded 134,407 bachelor's degrees in psy
 
 If students don't want to get into therapy or conduct research, they can consider becoming an admissions counselor, career counselor, forensic psychologist, human resources coordinator, industrial/organizational psychologist, marketing manager, market research analyst, probation officer, training and development specialist, teacher, UX researcher, and so much more! Check out the resources below for more information:
 
-- [Mapping Your Future: An Overview of Psychology Career Paths (Eye on Psi Chi | Winter 2025)](https://www.psichi.org/page/302Eye_Mapping-Your-Future-An-Overview-of-Psychology-Caree-Paths)
+- [Mapping Your Future: An Overview of Psychology Career Paths (Eye on Psi Chi, Winter 2025)](https://www.psichi.org/page/302Eye_Mapping-Your-Future-An-Overview-of-Psychology-Caree-Paths)
 
 - [What Can You Do With a Psychology Degree? Careers for Psychology Majors at Every Level (Extern)](https://www.extern.com/post/careers-for-psychology-majors-guide)
 
@@ -69,4 +69,4 @@ With a Smith College email address, you can access [this folder](https://drive.g
 
 ## Professional Affiliation Organizations
 
-
+*coming soon...*
