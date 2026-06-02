@@ -45,7 +45,7 @@ Six courses total.
 |:-----------|:----------------------------|:------------------|  
 | Foundation Courses  | **Two of the three** foundation courses for the major.  | PSY 100, SDS 201/210 & SDS 100 **OR** PSY 202 |  
 | Breadth Courses   | **Four** courses must be taken across **at least two** learning tracks.  | 100-, 200-, and 300-level courses in **Mind & Brain**, **Health & Illness**, and/or **Person & Society**  |
-| Depth Courses | **One** colloquium and **one** seminar. | One 200-level course. One 300-level course, such as a Seminar or Research Seminar. |  
+| Depth Courses | **One** colloquium and **one** seminar. | One 200-level course from the Breadth Courses. One 300-level course from the Breadth Courses. |  
 
 ## How to Declare a Major/Minor
 There are two primary ways to declare:
@@ -110,13 +110,13 @@ do not meet the minimum GPA requirements for membership.*
 
 Writing for psychology can be a challenge for some undergraduates as most students have not taken college-level psychology courses before.
 
-### Structure for research paper
+### Research Paper Structure
 {% include figure popup=true image_path="/assets/images/hourglass.jpg" %}
 
-### APA citation style
+### APA Citation Guide
 *several resources coming soon...*
 
-## Smith College resources
+## College Resources
 Smith offers a number of resources for students seeking academic support.
 - [The Jacobson Center](https://www.smith.edu/academics/integrative-learning/jacobson-center-writing-teaching-learning)
     - Offers resources for writing assignments at any stage: from brainstorm to final revisions

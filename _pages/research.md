@@ -5,7 +5,9 @@ toc_sticky: true
 ---
 
 # Research at Smith College
-Research plays a crucial role in expanding our understanding of the world and contributing to the well-being of society. For students, research extends learning beyond the classroom and encourages active engagement, innovative collaboration, and problem-solving. It's fantastic work experience, even for those who aren't pursuing careers in academia or industry research, because it develops skills that can bolster your CV/résumé.
+Research plays a crucial role in expanding our understanding of the world and contributing to the well-being of society. For students, research extends learning beyond the classroom and encourages active engagement, innovative collaboration, and problem-solving. It's fantastic work experience, even for those who aren't pursuing careers in academia or industry research, because it develops skills that can bolster your CV/résumé. Read through the following presentation for more information on psychology research in general.
+
+<object data="../assets/research.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 ## How Popular is Research at Smith?
 Since the college prioritizes undergraduates, Smith students don't have to compete with graduate students for opportunities, such as conference attendance, publication authorship, and research leadership roles, as they often would at larger universities. As of 2026, around 80% of Smith students, including 50% of STEM majors, conduct research or complete one-on-one projects with professors before graduating. 
@@ -44,6 +46,9 @@ The Summer Undergraduate Research Fellowship (SURF) is a program where students 
 
 # How to Get Involved in Off-Campus Psychology Research
 Students interested in pursuing off-campus research opportunities often apply for summer positions, but virtual and part-time opportunities may also be available during the academic year.
+
+## Job and Internship Mastersheet
+Faculty members in the Psychology Department maintain a [mastersheet](https://docs.google.com/spreadsheets/d/1LuaMWjDd07UBR94SDn0MjhPqaB1gqrv0h3rPE2G73cA/edit?usp=sharing) of summer internships and post-baccalaureate research jobs. Make sure to bookmark the page and check in regularly!
 
 ## Five (Now Four!) College Consortium
 **Some** research labs at other academic institutions in the consortium are open to Smith College students. Interested Smith psychology students **must reach out** to principal investigators, professors, and/or lab managers to see if they're eligible to apply. If you’re unsure on how to reach out, check the [Professional Development](https://smith-psychology-club.github.io/profdevelopment/) page for tips on writing a cold email.

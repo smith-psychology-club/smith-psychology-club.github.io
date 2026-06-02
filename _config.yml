@@ -85,7 +85,7 @@ author:
       url: "https://www.smith.edu/academics/psychology"
     - label: "Join the Psychology Club"
       icon : "fas fa-fw fa-link"
-      url: "https://socialnetwork.smith.edu/organization/psychologyclub"
+      url: "https://smith.campusgroups.com/feeds?type=club&type_id=35699&tab=about"
 
 footer:
   links:
