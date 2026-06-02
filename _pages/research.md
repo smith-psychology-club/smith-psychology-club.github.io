@@ -39,14 +39,14 @@ Achieving Excellence in Mathematics, Engineering, and Sciences (AEMES) is a prog
 Student Research in Departments (STRIDE) is a program where incoming Smith students with outstanding academic and personal qualifications receive a financial scholarship throughout all four years at Smith and an additional stipend for the first two years linked to a research assistant (RA) position. For more information on STRIDE, please visit the [STRIDE page](https://www.smith.edu/academics/applied-learning-research/stride-program) on the official college website.
 
 ## SURF
-Summer Undergraduate Research Fellowship (SURF) is a program where students can apply to conduct research in on-campus labs for 8-10 weeks over the summer and receive a financial stipend to offset summer housing costs and other personal expenses. For more information on SURF, please visit the [SURF page](https://www.science.smith.edu/student-opportunities/surf/surf-participants/) on the Smith College Clark Science Center's website.
+The Summer Undergraduate Research Fellowship (SURF) is a program where students can apply to conduct research in on-campus labs for 8-10 weeks over the summer. Students receive a financial stipend to help offset summer housing costs and other personal expenses. For more information on SURF, please visit the [SURF page](https://www.science.smith.edu/student-opportunities/surf/surf-participants/) on the Smith College Clark Science Center's website.
 
 
 # How to Get Involved in Off-Campus Psychology Research
 Students interested in pursuing off-campus research opportunities often apply for summer positions, but virtual and part-time opportunities may also be available during the academic year.
 
 ## Five (Now Four!) College Consortium
-**Some research labs** at other academic institutions in the consortium are open to Smith College students. Interested Smith psychology students **must reach out** to principal investigators, professors, and/or lab managers to see if they're eligible to apply. If you’re unsure on how to reach out, check the **Professional Development** page for tips on writing a cold email.
+**Some** research labs at other academic institutions in the consortium are open to Smith College students. Interested Smith psychology students **must reach out** to principal investigators, professors, and/or lab managers to see if they're eligible to apply. If you’re unsure on how to reach out, check the [Professional Development](https://smith-psychology-club.github.io/profdevelopment/) page for tips on writing a cold email.
 
 - Here is the official list of psychology and neuroscience research labs at the [University of Massachusetts Amherst](https://www.umass.edu/psychological-brain-sciences/research/laboratories).
 
@@ -65,4 +65,4 @@ Psychology research can occur in a variety of settings, such as small- and mid-s
 
 Students interested in conducting psychology research at off-campus institutions are encouraged to explore university laboratory websites and the research internship pages of medical centers. Feel free to check out lab accounts on Twitter/X and Bluesky or the [Psychology Jobs & Internships website](https://psychologyjobsinternships.wordpress.com). 
 
-Be intentional about when and where you pursue a research internship, as experiences can vary considerably. Serving as a virtual research assistant for a lab in an Ivy League institution offers a very different experience from working as an in-person intern at a research hospital. If you're interested in pursuing an internship abroad, make sure that the necessary travel paperwork is complete. If you have questions, you can contact the Lazarus Center for Career Development and the Lewis Global Studies Center.
+Be intentional about when and where you pursue a research internship, as experiences can vary considerably. Working as a virtual RA for a lab in an Ivy League school offers a very different experience from working as an in-person intern at a research hospital. For those who are interested in pursuing an internship abroad, please make sure that all necessary travel paperwork has been completed beforehand. If you have any questions about international internships, you can contact the Lazarus Center for Career Development and the Lewis Global Studies Center.
