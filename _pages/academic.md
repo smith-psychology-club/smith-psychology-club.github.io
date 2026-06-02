@@ -25,25 +25,27 @@ The psychology curriculum is structured to develop the skills and objectives set
     - Personality Psychology
     - Social Psychology
     
-Please note that Smith doesn't have classes for some sub-disciplines in psychology (e.g. industrial-organizational psychology, speech-language pathology). Students are strongly recommended to look at courses in Amherst College, Mount Holyoke College, and the University of Massachusetts at Amherst for more opportunities.
+Please note that Smith doesn't have classes for some sub-disciplines in psychology (e.g. industrial-organizational psychology, speech-language pathology). Students are strongly recommended to look at course catalogs for Amherst College, Mount Holyoke College, and the University of Massachusetts at Amherst.
 
 {% include figure popup=true image_path="/assets/images/tracks.sized.jpg" %}
 
 ## Psychology Major Requirements
+Ten courses total.
 
 | Type of Courses | Description  | Eligible Courses |  
 |:-----------|:----------------------------|:------------------|  
-| Foundation Courses  | Three mandatory courses, typically completed by the end of the sophomore year.  | PSY 100, SDS 201/210 & SDS 100, PSY 202 |  
-| Breadth Courses  | At least one course must be taken in each of the three learning tracks. | 100-, 200-, and 300-level courses in **Mind & Brain**, **Health & Illness**, and **Person & Society** |  
-| Depth Courses | Two colloquium courses. Two courses at an advanced level, one of which must be seminar. | Two 200-level courses. At least one 300-level course, such as a Seminar or Research Seminar; Special Studies (PSY 400) or Honors Theses (PSY 430D / 431 / 432D) can count as an advanced level course. |  
+| Foundation Courses  | **Three** mandatory courses, typically completed by the end of the sophomore year.  | PSY 100, SDS 201/210 & SDS 100, PSY 202 |  
+| Breadth Courses  | **At least one** course must be taken in **each of the three** learning tracks. | 100-, 200-, and 300-level courses in Mind & Brain, Health & Illness, and Person & Society |  
+| Depth Courses | **Two** colloquium courses. **Two** courses at an advanced level, one of which must be seminar. | Two 200-level courses. At least one 300-level course, such as a Seminar or Research Seminar; Special Studies (PSY 400) or Honors Theses (PSY 430D / 431 / 432D) can count as an advanced level course. |  
 
 ## Psychology Minor Requirements
+Six courses total.
 
 | Type of Courses | Description  | Eligible Courses |  
 |:-----------|:----------------------------|:------------------|  
-| Foundation Courses  | Two of the three foundation courses for the major.  | PSY 100, SDS 201/210 & SDS 100 **OR** PSY 202 |  
-| Breadth Courses   | Four courses must be taken from at least two of the learning tracks.  | 100-, 200-, and 300-level courses in **Mind & Brain**, **Health & Illness**, and/or **Person & Society**  |
-| Depth Courses | One colloquium and one seminar. | One 200-level course. One 300-level course, such as a Seminar or Research Seminar. |  
+| Foundation Courses  | **Two of the three** foundation courses for the major.  | PSY 100, SDS 201/210 & SDS 100 **OR** PSY 202 |  
+| Breadth Courses   | **Four** courses must be taken across **at least two** learning tracks.  | 100-, 200-, and 300-level courses in **Mind & Brain**, **Health & Illness**, and/or **Person & Society**  |
+| Depth Courses | **One** colloquium and **one** seminar. | One 200-level course. One 300-level course, such as a Seminar or Research Seminar. |  
 
 ## How to Declare a Major/Minor
 There are two primary ways to declare:
