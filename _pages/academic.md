@@ -35,7 +35,7 @@ Ten courses total.
 | Type of Courses | Description  | Eligible Courses |  
 |:-----------|:----------------------------|:------------------|  
 | Foundation Courses  | **Three** mandatory courses, typically completed by the end of the sophomore year.  | PSY 100, SDS 201/210 & SDS 100, PSY 202 |  
-| Breadth Courses  | **At least one** course must be taken in **each of the three** learning tracks. | 100-, 200-, and 300-level courses in Mind & Brain, Health & Illness, and Person & Society |  
+| Breadth Courses  | **At least one** course must be taken in **each of the three** learning tracks. | 100-, 200-, and 300-level courses in **Mind & Brain**, **Health & Illness**, and **Person & Society** |  
 | Depth Courses | **Two** colloquium courses. **Two** courses at an advanced level, one of which must be seminar. | Two 200-level courses. At least one 300-level course, such as a Seminar or Research Seminar; Special Studies (PSY 400) or Honors Theses (PSY 430D / 431 / 432D) can count as an advanced level course. |  
 
 ## Psychology Minor Requirements
