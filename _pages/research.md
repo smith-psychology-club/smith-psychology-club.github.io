@@ -62,7 +62,7 @@ Faculty members in the Psychology Department maintain a [mastersheet](https://do
 ## Other Institutions 
 Psychology research can occur in a variety of settings, such as small- and mid-sized colleges, R1 universities, medical centers, and non-profit organizations. During their time at Smith, psychology students have snagged research opportunities at: 
 
-- postsecondary institutions in the United States (e.g. Geisel School of Medicine at Dartmouth; Georgetown University; Northeastern University; University of California, Berkeley; University of Massachusetts Amherst)
+- postsecondary institutions in the United States (e.g. Geisel School of Medicine at Dartmouth; Georgetown University; Northeastern University; University of California, Berkeley; University of Massachusetts Amherst; Yale University)
 
 - postsecondary institutions outside of the United States (e.g. Tsinghua University, VNU University of Education)
 
