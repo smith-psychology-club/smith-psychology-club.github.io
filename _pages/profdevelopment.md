@@ -43,7 +43,7 @@ If students don't want to provide therapy or conduct research, they can consider
 ## How to Write a CV
 <object data="../assets/Guide to Writing a Psychology CV.pdf" width="1000" height="1000" type='application/pdf'></object>
 
-Here is a link to a [sample CV template](https://docs.google.com/document/d/1Zja9VORfgEzS9WiPOrI6d3Va8Y0wxac3yIxjZIgId1w/edit?usp=sharing)
+Here is a link to a [sample CV template](https://docs.google.com/document/d/1SgIKGT3Hj_jMLrV5KQW0k73v0MtKg1yVVMeOxUWyHQY/edit?usp=sharing)
 
 ## How to Write and Send a Cold Email
 <object data="../assets/How to _cold email_.pdf" width="1000" height="1000" type='application/pdf'></object>
@@ -63,7 +63,9 @@ Here is a link to a [sample CV template](https://docs.google.com/document/d/1Zja
 # Professional Development Opportunities
 
 ## Conferences
-Student-faculty research collaborations can blossom into on-campus Collaborations posters, national conference posters or presentations, or even peer-reviewed publications.
+In psychology, conferences are professional gatherings where clinicians, researchers, and scholars come together to present and discuss their latest practices, findings, and theories. From major organizations, such as the American Psychological Association and the Association for Psychological Science, to more specialized and niche gatherings, psychology conferences offer opportunities suited to virtually every student's interests and career goals. It's highly recommended for students to attend at least one conference during their time at Smith. 
+
+For more information on what conferences look like, visit [Psychepedia's article on conferences](https://psychepedia.arabpsychology.com/trm/academic-conferences-a-guide-for-researchers/). If you're worried about cost, check out the Lazarus Center's [Professional Development Fund](https://www.smith.edu/your-campus/offices-services/lazarus-center-career-development/resources/professional-development).
 
 With a Smith College email address, you can access [this folder](https://drive.google.com/drive/folders/1IAqTEvaSzVVazCcxuXR1Lb2-tcntJ8Q7?usp=sharing) containing video interviews with Smith students about applying to, attending, and funding academic conferences.
 
